@@ -133,6 +133,7 @@ Summary
 Example code for a linear model
 
 '''
+
 	import matplotlib
 	import matplotlib.pyplot as plt
 	import numpy as np
